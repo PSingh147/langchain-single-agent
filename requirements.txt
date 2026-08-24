@@ -1,0 +1,7 @@
+langchain
+langchain_google_genai
+langchain.agents
+langchain.agents.structured_output
+langchain_tavily
+python-dotenv
+streamlit
